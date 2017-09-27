@@ -1,7 +1,7 @@
 import pandas as pd
 import quandl
 import math
-from sklearn import preprocessing, cross_validation, svm
+from sklearn import preprocessing, cross_validation
 from sklearn.linear_model import LinearRegression
 
 
